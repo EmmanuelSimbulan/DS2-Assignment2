@@ -1,2 +1,4 @@
 # DS2-Assignment2
 Discrete_Structures2_Assignment#2
+
+CREATE A FLOWCHART(FC) AND JAVA PROGRAM FOR THE FF. PROBLEMS BELOW.
